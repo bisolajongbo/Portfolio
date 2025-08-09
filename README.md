@@ -21,7 +21,7 @@ PoweBi.(interactive dashboards and reports)
 *I help businesses solve challenges and unlock growth.
 
 <!--Section 2: List 3-4 key projects-->
-## MY PORTFOLIO 
+## PROJECTS
 
 *A glimpse of some of the projects I've been working on.*
 
