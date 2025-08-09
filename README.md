@@ -11,7 +11,6 @@ Data Modeling,
 Data Wrangling
 
 **TOOLS**
-
 Excel.(Formulas,pivotTable,charts and Power query),
 SQL.(querying, joins, aggregation),
 PoweBi.(interactive dashboards and reports)
