@@ -26,9 +26,8 @@ This project is about evaluating and optimizing supply chain performance
 
 ![image](Supply Chain Overview Dashboard-1.png)
 
-<img width="855" height="360" alt="Supply Chain Overview Dashboard-1" src="https://github.com/user-attachments/assets/d29975fe-c804-46cc-ad7b-63fbb3dfcb1a" />
 
-<img width="846" height="383" alt="Supply chain Dashboard-1" src="https://github.com/user-attachments/assets/076aadb8-0e3e-4412-880a-9cff01ff685a" />
+![image](Supply Chain Overview Dashboard-1.png)
 
 **Problem Solved**
 1. High defect rates and quality control issues –:Monitored defect percentages across product
