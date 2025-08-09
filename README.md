@@ -35,7 +35,6 @@ categories.
 5. Transport mode efficiency:Compared transportation modes for strategic planning.
    
  **Key Findings**
- 
 1.  Total revenue: $577.6K | Profit: $519.4K with strong profit margin.
 2. Skincare leads in revenue ($241.6K) and profit ($217.2K) but has highest defect rate (41%).
 3. Haircare: Moderate revenue ($174.5K) but high defect rate (37%).
