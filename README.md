@@ -52,7 +52,7 @@ categories.
 8.  ales peak in March and May; lowest in October.
 
 [Read more]
-([https://www.linkedin.com/posts/jongbobisolatolutope_supplychain-dashboard-dataanalysis/](https://www.linkedin.com/posts/jongbobisolatolutope_supplychain-dashboard-dataanalysis-activity-7359797664919515136-EJvH?utm_source=share&utm_medium=member_desktop&rcm=ACoAADCfSSEBkJYYx6LxrwBKKNDqI_FiANTlAf8)
+([https://www.linkedin.com/posts/jongbobisolatolutope_supplychain-dashboard-dataanalysis-activity-7359797664919515136-EJvH?utm_source=share&utm_medium=member_desktop&rcm=ACoAADCfSSEBkJYYx6LxrwBKKNDqI_FiANTlAf8])
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
