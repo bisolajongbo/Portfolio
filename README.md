@@ -24,9 +24,9 @@ Hello! I'm Bisola Jongbo 🤓, a data analyst with a passion for turning data in
 *A glimpse of some of the projects I've been working on.*
 
 **Supply Chain Performance Dashboard.**
-[<img width="855" height="360" alt="Supply Chain Overview Dashboard-1" src="https://github.com/user-attachments/assets/eae18799-3152-4964-98d0-67e128373d38" />](Supply Chain Overview)
-[<img width="846" height="383" alt="Supply chain Dashboard-1" src="https://github.com/user-attachments/assets/41315da6-9651-44c0-a0ce-fc7b5eabb017" />)]
-(SupplyChain Dashboard)
+<img width="855" height="360" alt="Supply Chain Overview Dashboard-1" src="https://github.com/user-attachments/assets/d29975fe-c804-46cc-ad7b-63fbb3dfcb1a" />
+
+<img width="846" height="383" alt="Supply chain Dashboard-1" src="https://github.com/user-attachments/assets/076aadb8-0e3e-4412-880a-9cff01ff685a" />
 
 **Problem Solved**
 1. High defect rates and quality control issues –:Monitored defect percentages across product
@@ -35,15 +35,17 @@ categories.
 3. Supplier performance optimization:Identified best and underperforming suppliers.
 4. Cost control – Tracked manufacturing and shipping costs to manage profitability.
 5. Transport mode efficiency:Compared transportation modes for strategic planning.
+   
  **Key Findings**
-• Total revenue: $577.6K | Profit: $519.4K with strong profit margin.
-• Skincare leads in revenue ($241.6K) and profit ($217.2K) but has highest defect rate (41%).
-• Haircare: Moderate revenue ($174.5K) but high defect rate (37%).
-• Cosmetics: Lowest defect rate (22%) and manufacturing cost but lowest revenue.
-• Road ($161) and Air ($156) most used transportation modes; Sea least used ($84).
-• Supplier 1 has highest performance (157.5K) with good lead/shipping times.
-• Minor inventory shortage in skincare (2.1K orders vs 2.0K available).
-• Sales peak in March and May; lowest in October.
+ 
+1.  Total revenue: $577.6K | Profit: $519.4K with strong profit margin.
+2. Skincare leads in revenue ($241.6K) and profit ($217.2K) but has highest defect rate (41%).
+3. Haircare: Moderate revenue ($174.5K) but high defect rate (37%).
+4. Cosmetics: Lowest defect rate (22%) and manufacturing cost but lowest revenue.
+5. Road ($161) and Air ($156) most used transportation modes; Sea least used ($84).
+6. Supplier 1 has highest performance (157.5K) with good lead/shipping times.
+7.  Minor inventory shortage in skincare (2.1K orders vs 2.0K available).
+8.  ales peak in March and May; lowest in October.
 
 
 [Read More]([https://www.linkedin.com/posts/jongbobisolatolutope_supplychain-dashboard-dataanalysis/)
