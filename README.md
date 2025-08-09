@@ -1,4 +1,4 @@
-<!--Section 1: Introduce your self-->
+<img width="846" height="383" alt="Supply chain Dashboard-1" src="https://github.com/user-attachments/assets/41315da6-9651-44c0-a0ce-fc7b5eabb017" /><img width="855" height="360" alt="Supply Chain Overview Dashboard-1" src="https://github.com/user-attachments/assets/eae18799-3152-4964-98d0-67e128373d38" /><!--Section 1: Introduce your self-->
 ## ABOUT ME
 
 Hello! I'm Bisola Jongbo 🤓, a data analyst with a passion for turning data into actionable insights. 
@@ -24,13 +24,29 @@ Hello! I'm Bisola Jongbo 🤓, a data analyst with a passion for turning data in
 
 *A glimpse of some of the projects I've been working on.*
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-![image](1 anietie etuk data analytics car project.jpeg)
+**Supply Chain Performance Dashboard.**
+![Uploading Supply Chain Overview Dashboard-1.png…](Supply Chain Overview)
+![Uploading Supply chain Dashboard-1.png…](Supply Chain Dashboard)
 
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
+**Problem Solved**
+1. High defect rates and quality control issues –:Monitored defect percentages across product
+categories.
+2. Inventory stock imbalance : Highlighted gaps between product availability and order quantities.
+3. Supplier performance optimization:Identified best and underperforming suppliers.
+4. Cost control – Tracked manufacturing and shipping costs to manage profitability.
+5. Transport mode efficiency:Compared transportation modes for strategic planning.
+ **Key Findings**
+• Total revenue: $577.6K | Profit: $519.4K with strong profit margin.
+• Skincare leads in revenue ($241.6K) and profit ($217.2K) but has highest defect rate (41%).
+• Haircare: Moderate revenue ($174.5K) but high defect rate (37%).
+• Cosmetics: Lowest defect rate (22%) and manufacturing cost but lowest revenue.
+• Road ($161) and Air ($156) most used transportation modes; Sea least used ($84).
+• Supplier 1 has highest performance (157.5K) with good lead/shipping times.
+• Minor inventory shortage in skincare (2.1K orders vs 2.0K available).
+• Sales peak in March and May; lowest in October.
 
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+[Read More]([https://www.linkedin.com/posts/jongbobisolatolutope_supplychain-dashboard-dataanalysis/)
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
