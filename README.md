@@ -1,8 +1,7 @@
-<img width="846" height="383" alt="Supply chain Dashboard-1" src="https://github.com/user-attachments/assets/41315da6-9651-44c0-a0ce-fc7b5eabb017" /><img width="855" height="360" alt="Supply Chain Overview Dashboard-1" src="https://github.com/user-attachments/assets/eae18799-3152-4964-98d0-67e128373d38" /><!--Section 1: Introduce your self-->
+<!--Section 1: Introduce your self-->
 ## ABOUT ME
 
 Hello! I'm Bisola Jongbo 🤓, a data analyst with a passion for turning data into actionable insights. 
-
 
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## SKILLS
@@ -25,8 +24,9 @@ Hello! I'm Bisola Jongbo 🤓, a data analyst with a passion for turning data in
 *A glimpse of some of the projects I've been working on.*
 
 **Supply Chain Performance Dashboard.**
-![Uploading Supply Chain Overview Dashboard-1.png…](Supply Chain Overview)
-![Uploading Supply chain Dashboard-1.png…](Supply Chain Dashboard)
+[<img width="855" height="360" alt="Supply Chain Overview Dashboard-1" src="https://github.com/user-attachments/assets/eae18799-3152-4964-98d0-67e128373d38" />](Supply Chain Overview)
+[<img width="846" height="383" alt="Supply chain Dashboard-1" src="https://github.com/user-attachments/assets/41315da6-9651-44c0-a0ce-fc7b5eabb017" />)]
+(SupplyChain Dashboard)
 
 **Problem Solved**
 1. High defect rates and quality control issues –:Monitored defect percentages across product
