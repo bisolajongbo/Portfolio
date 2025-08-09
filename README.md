@@ -5,14 +5,14 @@ Hello! I'm Bisola Jongbo 🤓, a data analyst with a passion for turning data in
 
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## SKILLS
-**- ✅Data Cleaning & Preparation .**
-**- ✅Exploratory Data Analysis (EDA).**
-**- ✅Data Modeling .**
-**- ✅Data Wrangling.**
+Data Cleaning & Preparation,
+Exploratory Data Analysis (EDA),
+Data Modeling,
+Data Wrangling
 ### TOOLS
-**- ✅Excel.(Formulas,pivotTable,charts and Power query).**
-**- ✅SQL.(querying, joins, aggregation).**
-**- ✅PoweBi.(interactive dashboards and reports).**
+Excel.(Formulas,pivotTable,charts and Power query),
+SQL.(querying, joins, aggregation),
+PoweBi.(interactive dashboards and reports)
 
 
 ## WHAT I DO
