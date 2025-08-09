@@ -1,7 +1,7 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hello! I'm Bisola Jongbo 🤓, a data analyst with a passion for turning data into actionable insights. I help businesses solve challenges and unlock growth.
+Hello! I'm Bisola Jongbo 🤓, a data analyst with a passion for turning data into actionable insights. 
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
@@ -10,25 +10,14 @@ Hello! I'm Bisola Jongbo 🤓, a data analyst with a passion for turning data in
 **- ✅Exploratory Data Analysis (EDA).**
 **- ✅Data Modeling .**
 **- ✅Data Wrangling.**
-# TOOLS
+### TOOLS
 **- ✅Excel.(Formulas,pivotTable,charts and Power query).**
 **- ✅SQL.(querying, joins, aggregation).**
 **- ✅PoweBi.(interactive dashboards and reports).**
 
 
-
-
-
 ## WHAT I DO
-
-*As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.*
-
-**- ✅ Data Analytics Consulting.**
-I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
-
-**- ✅ Staff Training & Development.**
-I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
-
+*I help businesses solve challenges and unlock growth.
 
 <!--Section 2: List 3-4 key projects-->
 ## MY PORTFOLIO 
