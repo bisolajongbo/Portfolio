@@ -15,12 +15,8 @@ Excel.(Formulas,pivotTable,charts and Power query),
 SQL.(querying, joins, aggregation),
 PoweBi.(interactive dashboards and reports)
 
-
-## WHAT I DO
-*I help businesses solve challenges and unlock growth.
-
 <!--Section 2: List 3-4 key projects-->
-## PROJECTS
+## MY PROJECTS
 
 *A glimpse of some of the projects I've been working on.*
 
