@@ -20,7 +20,7 @@ PoweBi.(interactive dashboards and reports)
 
 **Supply Chain Performance Dashboard.**
 
-This project is about evaluating and optimizing supply chain performance
+This project is about evaluating and optimizing supply chain performance which contains two page analyzed and visualized using Excel
 
 ![image](Supply Chain Overview Dashboard-1.png)
 
