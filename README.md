@@ -51,8 +51,8 @@ categories.
 7.  Minor inventory shortage in skincare (2.1K orders vs 2.0K available).
 8.  ales peak in March and May; lowest in October.
 
-
-[Read more](https://www.linkedin.com/posts/jongbobisolatolutope_supplychain-dashboard-dataanalysis/)
+[Read more]
+([https://www.linkedin.com/posts/jongbobisolatolutope_supplychain-dashboard-dataanalysis/](https://www.linkedin.com/posts/jongbobisolatolutope_supplychain-dashboard-dataanalysis-activity-7359797664919515136-EJvH?utm_source=share&utm_medium=member_desktop&rcm=ACoAADCfSSEBkJYYx6LxrwBKKNDqI_FiANTlAf8)
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
