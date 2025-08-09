@@ -18,8 +18,6 @@ PoweBi.(interactive dashboards and reports)
 <!--Section 2: List 3-4 key projects-->
 ## MY PROJECTS
 
-*A glimpse of some of the projects I've been working on.*
-
 **Supply Chain Performance Dashboard.**
 
 This project is about evaluating and optimizing supply chain performance
