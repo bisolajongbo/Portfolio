@@ -9,6 +9,7 @@ Data Cleaning & Preparation,
 Exploratory Data Analysis (EDA),
 Data Modeling,
 Data Wrangling
+
 **TOOLS**
 Excel.(Formulas,pivotTable,charts and Power query),
 SQL.(querying, joins, aggregation),
