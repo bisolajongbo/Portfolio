@@ -56,6 +56,7 @@ The dashboard was analyzed and built using Microsoft Excel, leveraging pivot tab
 ![image](Procurement Dashboard3.png)
 
 **Problem Solved**
+
 The dashboard tackled issues of rising procurement costs, supplier inefficiencies, compliance gaps, product defects, and fluctuating price trends, providing a single view for data-driven decision-making.
 
 **key Insights**
