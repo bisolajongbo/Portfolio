@@ -37,8 +37,8 @@ This project is about evaluating and optimizing supply chain performance which c
  **Key Findings**
 1. Total revenue: $577.6K | Profit: $519.4K with strong profit margin.
 2. Skincare leads in revenue ($241.6K) and profit ($217.2K) but has highest defect rate (41%).
-3. Haircare: Moderate revenue ($174.5K) but high defect rate (37%).
-4. Cosmetics: Lowest defect rate (22%) and manufacturing cost but lowest revenue.
+3. Haircare Moderate revenue ($174.5K) but high defect rate (37%).
+4. Cosmetics Lowest defect rate (22%) and manufacturing cost but lowest revenue.
 5. Road ($161) and Air ($156) most used transportation modes; Sea least used ($84).
 6. Supplier 1 has highest performance (157.5K) with good lead/shipping times.
 7.  Minor inventory shortage in skincare (2.1K orders vs 2.0K available).
@@ -48,7 +48,6 @@ This project is about evaluating and optimizing supply chain performance which c
 ([https://www.linkedin.com/posts/jongbobisolatolutope_supplychain-dashboard-dataanalysis-activity-7359797664919515136-EJvH?utm_source=share&utm_medium=member_desktop&rcm=ACoAADCfSSEBkJYYx6LxrwBKKNDqI_FiANTlAf8])
 
 **Procurement Dashboard Analysis**
-
 This analysis focused on procurement performance, evaluating supplier efficiency, cost savings, compliance, delivery timelines, defect rates, and price fluctuations over time. The goal was to uncover insights that help businesses reduce procurement costs, select reliable suppliers, and optimize purchasing decisions.
 The dashboard was analyzed and built using Microsoft Excel, leveraging pivot tables, charts, and advanced formatting to create an interactive and insightful report for decision makers.
 
