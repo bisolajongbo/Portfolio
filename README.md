@@ -34,15 +34,17 @@ This project is about evaluating and optimizing supply chain performance which c
 4. Cost control – Tracked manufacturing and shipping costs to manage profitability.
 5. Transport mode efficiency:Compared transportation modes for strategic planning.
    
- **Key Findings**
+**Key Insights**
 1. Total revenue: $577.6K | Profit: $519.4K with strong profit margin.
 2. Skincare leads in revenue ($241.6K) and profit ($217.2K) but has highest defect rate (41%).
 3. Haircare Moderate revenue ($174.5K) but high defect rate (37%).
 4. Cosmetics Lowest defect rate (22%) and manufacturing cost but lowest revenue.
 5. Road ($161) and Air ($156) most used transportation modes; Sea least used ($84).
 6. Supplier 1 has highest performance (157.5K) with good lead/shipping times.
-7.  Minor inventory shortage in skincare (2.1K orders vs 2.0K available).
-8.  Sales peak in March and May; lowest in October.
+7. Minor inventory shortage in skincare (2.1K orders vs 2.0K available).
+8. Sales peak in March and May; lowest in October.
+
+
 
 [Read more]
 ([https://www.linkedin.com/posts/jongbobisolatolutope_supplychain-dashboard-dataanalysis-activity-7359797664919515136-EJvH?utm_source=share&utm_medium=member_desktop&rcm=ACoAADCfSSEBkJYYx6LxrwBKKNDqI_FiANTlAf8])
