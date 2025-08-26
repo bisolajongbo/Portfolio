@@ -1,7 +1,7 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hello! I'm Bisola Jongbo 🤓, a data analyst with a passion for turning data into actionable insights. 
+Hello! I'm Bisola Jongbo 🤓, a data analyst with a passion of turning data into actionable insights. 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## SKILLS
