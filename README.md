@@ -48,6 +48,7 @@ This project is about evaluating and optimizing supply chain performance which c
 ([https://www.linkedin.com/posts/jongbobisolatolutope_supplychain-dashboard-dataanalysis-activity-7359797664919515136-EJvH?utm_source=share&utm_medium=member_desktop&rcm=ACoAADCfSSEBkJYYx6LxrwBKKNDqI_FiANTlAf8])
 
 **Procurement Dashboard Analysis**
+
 This analysis focused on procurement performance, evaluating supplier efficiency, cost savings, compliance, delivery timelines, defect rates, and price fluctuations over time. The goal was to uncover insights that help businesses reduce procurement costs, select reliable suppliers, and optimize purchasing decisions.
 The dashboard was analyzed and built using Microsoft Excel, leveraging pivot tables, charts, and advanced formatting to create an interactive and insightful report for decision makers.
 
