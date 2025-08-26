@@ -65,6 +65,11 @@ The dashboard tackled issues of rising procurement costs, supplier inefficiencie
 5.  Strong compliance was observed with Epsilon_Group (124 vs 2 non-compliance).
 6. Price volatility was uncovered, with costs peaking in March ($3,554) and dropping to the lowest in May ($1,855).
 
+   [Read More]( https://www.linkedin.com/posts/jongbobisolatolutope_dataanalytics-businessintelligence-procurementanalytics-activity-7366088268561494017-yzFJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADCfSSEBkJYYx6LxrwBKKNDqI_FiANTlAf8
+)
+
+
+  
 ## CONTACT DETAILS
 
 *Let’s connect and see how we can make a difference together!*
