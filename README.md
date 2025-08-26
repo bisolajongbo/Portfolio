@@ -47,7 +47,7 @@ This project is about evaluating and optimizing supply chain performance which c
 [Read more]
 ([https://www.linkedin.com/posts/jongbobisolatolutope_supplychain-dashboard-dataanalysis-activity-7359797664919515136-EJvH?utm_source=share&utm_medium=member_desktop&rcm=ACoAADCfSSEBkJYYx6LxrwBKKNDqI_FiANTlAf8])
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Procurement Dashboard Analysis**
 
 ![image](2 anietie etuk data analytics sales project.jpg)
 
