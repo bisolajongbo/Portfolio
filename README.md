@@ -48,8 +48,21 @@ This project is about evaluating and optimizing supply chain performance which c
 ([https://www.linkedin.com/posts/jongbobisolatolutope_supplychain-dashboard-dataanalysis-activity-7359797664919515136-EJvH?utm_source=share&utm_medium=member_desktop&rcm=ACoAADCfSSEBkJYYx6LxrwBKKNDqI_FiANTlAf8])
 
 **Procurement Dashboard Analysis**
+This analysis focused on procurement performance, evaluating supplier efficiency, cost savings, compliance, delivery timelines, defect rates, and price fluctuations over time. The goal was to uncover insights that help businesses reduce procurement costs, select reliable suppliers, and optimize purchasing decisions.
+The dashboard was analyzed and built using Microsoft Excel, leveraging pivot tables, charts, and advanced formatting to create an interactive and insightful report for decision makers.
 
 ![image](Procurement Dashboard3.png)
+
+**Problem Solved**
+The dashboard tackled issues of rising procurement costs, supplier inefficiencies, compliance gaps, product defects, and fluctuating price trends, providing a single view for data-driven decision-making.
+
+**key Insights**
+✅ Negotiations reduced procurement costs by $2,591, showing effective cost control.
+✅ Epsilon_Group and Beta_Supplies contributed the highest savings.
+✅ Delivery timelines were stable at 10–11 days across suppliers.
+✅ Delta_Logistics had the highest defect rate (16.3), while Alpha_Inc showed the best quality performance (2.0).
+✅ Strong compliance was observed with Epsilon_Group (124 vs 2 non-compliance).
+✅ Price volatility was uncovered, with costs peaking in March ($3,554) and dropping to the lowest in May ($1,855).
 
 ## CONTACT DETAILS
 
