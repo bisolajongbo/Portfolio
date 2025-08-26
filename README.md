@@ -49,7 +49,7 @@ This project is about evaluating and optimizing supply chain performance which c
 
 **Procurement Dashboard Analysis**
 
-![image](Supply chain Dashboard-1.png)
+![image](Procurement Dashboard3.png)
 
 On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
 
