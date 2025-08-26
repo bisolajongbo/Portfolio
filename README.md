@@ -66,7 +66,7 @@ The dashboard tackled issues of rising procurement costs, supplier inefficiencie
 3.  Delivery timelines were stable at 10–11 days across suppliers.
 4. Delta_Logistics had the highest defect rate (16.3), while Alpha_Inc showed the best quality performance (2.0).
 5.  Strong compliance was observed with Epsilon_Group (124 vs 2 non-compliance).
-6. Price volatility was uncovered, with costs peaking in March ($3,554) and dropping to the lowest in May ($1,855).
+6.  Price volatility was uncovered, with costs peaking in March ($3,554) and dropping to the lowest in May ($1,855).
 
    [Read More]( https://www.linkedin.com/posts/jongbobisolatolutope_dataanalytics-businessintelligence-procurementanalytics-activity-7366088268561494017-yzFJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADCfSSEBkJYYx6LxrwBKKNDqI_FiANTlAf8
 )
