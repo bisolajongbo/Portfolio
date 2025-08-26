@@ -36,14 +36,15 @@ This project is about evaluating and optimizing supply chain performance which c
    
 **Key Insights**
 
-1. Total revenue: $577.6K | Profit: $519.4K with strong profit margin
-2. Skincare leads in revenue ($241.6K) and profit ($217.2K) but has highest defect rate (41%).
-3. Haircare Moderate revenue ($174.5K) but high defect rate (37%).
-4. Cosmetics Lowest defect rate (22%) and manufacturing cost but lowest revenue.
-5. Road ($161) and Air ($156) most used transportation modes; Sea least used ($84).
-6. Supplier 1 has highest performance (157.5K) with good lead/shipping times.
-7. Minor inventory shortage in skincare (2.1K orders vs 2.0K available).
-8. Sales peak in March and May; lowest in October.
+1. Total revenue:$577.6K
+2.  Profit: $519.4K with strong profit margin
+3. Skincare: leads in revenue ($241.6K) and profit ($217.2K) but has highest defect rate (41%).
+4. Haircare: Moderate revenue ($174.5K) but high defect rate (37%).
+5. Cosmetics: Lowest defect rate (22%) and manufacturing cost but lowest revenue.
+6. Road ($161) and Air ($156) most used transportation modes; Sea least used ($84).
+7. Supplier 1 has highest performance (157.5K) with good lead/shipping times.
+8. Minor inventory shortage in skincare (2.1K orders vs 2.0K available).
+9. Sales peak in March and May; lowest in October.
 
 [Read More](https://www.linkedin.com/posts/jongbobisolatolutope_supplychain-dashboard-dataanalysis-activity-7359797664919515136-EJvH?utm_source=share&utm_medium=member_desktop&rcm=ACoAADCfSSEBkJYYx6LxrwBKKNDqI_FiANTlAf8)
 
