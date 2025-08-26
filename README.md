@@ -42,27 +42,14 @@ This project is about evaluating and optimizing supply chain performance which c
 5. Road ($161) and Air ($156) most used transportation modes; Sea least used ($84).
 6. Supplier 1 has highest performance (157.5K) with good lead/shipping times.
 7.  Minor inventory shortage in skincare (2.1K orders vs 2.0K available).
-8.  ales peak in March and May; lowest in October.
+8.  Sales peak in March and May; lowest in October.
 
 [Read more]
 ([https://www.linkedin.com/posts/jongbobisolatolutope_supplychain-dashboard-dataanalysis-activity-7359797664919515136-EJvH?utm_source=share&utm_medium=member_desktop&rcm=ACoAADCfSSEBkJYYx6LxrwBKKNDqI_FiANTlAf8])
 
 **Procurement Dashboard Analysis**
 
-!Procurement Dashboard3.png](Procurement Dashboard3.png)
-
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
-
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
-
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-
-![image](3 anietie etuk data analytics agro project.jpg)
-
-Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
-
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
-
+![image](Procurement Dashboard3.png)
 
 ## CONTACT DETAILS
 
