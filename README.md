@@ -57,12 +57,12 @@ The dashboard was analyzed and built using Microsoft Excel, leveraging pivot tab
 The dashboard tackled issues of rising procurement costs, supplier inefficiencies, compliance gaps, product defects, and fluctuating price trends, providing a single view for data-driven decision-making.
 
 **key Insights**
-✅ Negotiations reduced procurement costs by $2,591, showing effective cost control.
-✅ Epsilon_Group and Beta_Supplies contributed the highest savings.
-✅ Delivery timelines were stable at 10–11 days across suppliers.
-✅ Delta_Logistics had the highest defect rate (16.3), while Alpha_Inc showed the best quality performance (2.0).
-✅ Strong compliance was observed with Epsilon_Group (124 vs 2 non-compliance).
-✅ Price volatility was uncovered, with costs peaking in March ($3,554) and dropping to the lowest in May ($1,855).
+1.  Negotiations reduced procurement costs by $2,591, showing effective cost control.
+2.  Epsilon_Group and Beta_Supplies contributed the highest savings.
+3.  Delivery timelines were stable at 10–11 days across suppliers.
+4. Delta_Logistics had the highest defect rate (16.3), while Alpha_Inc showed the best quality performance (2.0).
+5.  Strong compliance was observed with Epsilon_Group (124 vs 2 non-compliance).
+6. Price volatility was uncovered, with costs peaking in March ($3,554) and dropping to the lowest in May ($1,855).
 
 ## CONTACT DETAILS
 
