@@ -28,7 +28,7 @@ This project is about evaluating and optimizing supply chain performance which c
 ![image](Supply chain Dashboard-1.png)
 
 **Problem Solved**
-1. High defect rates and quality control issues –:Monitored defect percentages across product categories.
+1. High defect rates and quality control issues:Monitored defect percentages across product categories.
 2. Inventory stock imbalance : Highlighted gaps between product availability and order quantities.
 3. Supplier performance optimization:Identified best and underperforming suppliers.
 4. Cost control – Tracked manufacturing and shipping costs to manage profitability.
