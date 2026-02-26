@@ -78,7 +78,7 @@ This project is focused on to building a predictive model to determine if a buil
 1 if the building has at least a claim over the insured period. 0 if the building doesn’t have a claim over the insured period..
 This is built using Python, leveraging Data cleanings,EDA,Featuring Engineering,Visulazation Fixing inbalance,modelling and Evaluation.
 
-
+  [View project]( Insuance project (1).html)
 
 
 
