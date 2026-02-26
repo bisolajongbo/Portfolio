@@ -71,8 +71,11 @@ The dashboard tackled issues of rising procurement costs, supplier inefficiencie
 
    [Read More]( https://www.linkedin.com/posts/jongbobisolatolutope_dataanalytics-businessintelligence-procurementanalytics-activity-7366088268561494017-yzFJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADCfSSEBkJYYx6LxrwBKKNDqI_FiANTlAf8
 )
+**Insurance Claim**
 
-
+This project is focused on to building a predictive model to determine if a building will have an insurance claim during a certain period or not. I will have to predict the probability of having at least one claim over the insured period of the building. The model will be based on the building characteristics. The target variable, Claim, is a:
+1 if the building has at least a claim over the insured period. 0 if the building doesn’t have a claim over the insured period..
+This is built using Python, leveraging Data cleanings,EDA,Featuring Engineering,Visulazation Fixing inbalance,modelling and Evaluation.
   
 ## CONTACT DETAILS
 
